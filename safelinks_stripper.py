@@ -9,6 +9,8 @@ def strip(url):
 
 
 if __name__ == '__main__':
+
+    # Compatible with python verion 2.7
     my_url = ""
 
     print strip(url=my_url)
